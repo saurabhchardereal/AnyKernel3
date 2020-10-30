@@ -14,7 +14,7 @@ device.name2=ASUS_X00TD
 device.name3=X00TD
 device.name4=ASUS_X00TDA
 device.name5=ASUS_X00TDB
-supported.versions=9 - 10
+supported.versions=10 - 11
 '; } # end properties
 
 # shell variables
